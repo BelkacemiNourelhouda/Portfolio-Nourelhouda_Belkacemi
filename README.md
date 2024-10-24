@@ -1,4 +1,4 @@
-# React Portfolio 2
+# PORTFOLIO
 
 ### Vite + React + tailwind
 
